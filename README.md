@@ -26,10 +26,6 @@ A fun and challenging maze game built using Python and Pygame. Navigate through 
 2. Navigate to the project directory:
     ```bash
     cd maze-game
-    
-3. Install the required dependencies:
-     ```bash
-    pip install -r requirements.txt
      
 ## Technologies Used
 
